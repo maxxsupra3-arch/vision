@@ -1,7 +1,9 @@
 {
   "partners": [],
   "owners": [],
-  "resellers": [],
+  "resellers": [
+    "6004028442"
+  ],
   "ceo": [],
   "mods": [],
   "creator": []
